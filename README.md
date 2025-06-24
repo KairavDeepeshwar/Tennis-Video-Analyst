@@ -5,10 +5,10 @@ A sophisticated computer vision system for analyzing tennis matches using deep l
 ## Demo
 
 ### Input Video
-https://github.com/yourusername/Tennis-Video-Analysis/assets/videos/input_demo.mp4
+https://github.com/KairavDeepeshwar/Tennis-Video-Analyst/demo_videos/input_video.mp4
 
 ### Output Video with Analysis
-https://github.com/yourusername/Tennis-Video-Analysis/assets/videos/output_demo.mp4
+https://github.com/KairavDeepeshwar/Tennis-Video-Analyst/demo_videos/output_video_interpolation.mp4
 
 ## Features
 
